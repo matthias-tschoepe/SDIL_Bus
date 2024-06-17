@@ -1,0 +1,7 @@
+MODEL_NAME : "s3d"  # r3d, r2plus1d, mc3, s3d, mvit_v1, mvit_v2
+
+IMG_SIZE : 256
+
+# WIN_PATH: "\\\\169.254.213.20\\NAS_Data\\Datasets\\SDIL (Bus-Videos)\\Sliding_Windows_temp\\"
+WIN_PATH: "\\\\169.254.213.20\\NAS_Data\\Datasets\\SDIL (Bus-Videos)\\Sliding_Windows\\"
+ROOT_PATH: "\\\\169.254.213.20\\NAS_Data\\Datasets\\SDIL (Bus-Videos)\\"
